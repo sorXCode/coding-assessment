@@ -47,4 +47,4 @@ encrypted_message = encrypt(message);
 console.log("encrypted_message: ", encrypted_message)
 
 decrypted_message = decrypt(encrypted_message)
-print("decrypted message: ", decrypted_message)
+console.log("decrypted message: ", decrypted_message)
